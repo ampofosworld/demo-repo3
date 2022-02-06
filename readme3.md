@@ -1,3 +1,3 @@
 # Demonstration 
 
-This is a demo on introduction to Git.
+This is a demo on the introduction to Git and its application
